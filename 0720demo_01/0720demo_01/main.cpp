@@ -1,4 +1,3 @@
-
 #include <iostream>
 // Homebrew 将GLEW安装为Mac上的静态库，因此需要在程序顶部，添加 #define GLEW_STATIC 这行代码
 #define GLEW_STATIC
